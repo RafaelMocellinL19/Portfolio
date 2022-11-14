@@ -16,5 +16,8 @@ You may also see any lint errors in the console.
 
 ### `Rafael Mocellin Leszczynski`
 
-## Portfólio 
+## Portfólio ##
 
+### [C:\Users\rafae\OneDrive\Área de Trabalho\NewPortfolio\readmeFoto.png]
+
+### [C:\Users\rafae\OneDrive\Área de Trabalho\NewPortfolio\readmeFoto2.png]

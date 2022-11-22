@@ -14,9 +14,12 @@ Open [https://github.com/RafaelMocellinL19/Portfolio/deployments](https://rafael
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `Rafael Mocellin Leszczynski`
+### `Rafael Mocellin Leszczynski` ###
 
-## Portfólio ##
+## ##
+
+<<<<<<< HEAD
 
 
-
+=======
+>>>>>>> 75fd0cfaf85534946cb61a20eb5c92f69adf2101

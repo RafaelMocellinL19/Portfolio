@@ -17,9 +17,4 @@ You may also see any lint errors in the console.
 ### `Rafael Mocellin Leszczynski` ###
 
 ## ##
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 75fd0cfaf85534946cb61a20eb5c92f69adf2101
+**Front-end Developer Jr / UI/UX Designer**

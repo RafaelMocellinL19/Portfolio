@@ -15,9 +15,9 @@
 }
 
 .home .img-home .img-box {
-    max-width: 450px;
+    max-width: 350px;
     margin: auto;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 .home .img-home .img-box img {
